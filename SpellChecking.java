@@ -1,8 +1,5 @@
 //Author Name: Kylie Fauquher
-//Date: 01/30/2022
-//Program Name: Fauquher_Spell Check
-//Purpose: Spell checking a file
-
+//Date: 01/2022
 
 package spellcheck;
 
